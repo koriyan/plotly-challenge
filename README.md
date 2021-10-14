@@ -1,6 +1,6 @@
 # plotly-challenge
 
-![Belly Button Biodiversity](Images/Navelgazing.jpeg)
+![Belly Button Biodiversity](https://bloximages.newyork1.vip.townnews.com/jhnewsandguide.com/content/tncms/assets/v3/editorial/e/81/e812a88b-4590-5938-98d3-9f41df39b80f/5f1a3f3d3fd37.image.jpg?resize=1200%2C1035)
 
 In this task, I've built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
